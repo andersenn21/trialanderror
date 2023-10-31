@@ -1,6 +1,5 @@
 # trialanderror
 
-#Altering the file
-A file kept in the family repository
+## Altering the file
 
 Its a markdown for this repository
